@@ -9,7 +9,7 @@
   "changelogUrl": "https://www.pixygon.io/dev/versions/changelog",
   "licensesUrl": "https://www.pixygon.io/dev/versions/license",
   "dependencies": {
-    "com.pixygon.id": "0.5.0"
+    "com.pixygon.idsystem": "0.5.0"
  },
 "hideInEditor": false,
  "keywords": [
